@@ -1,0 +1,2 @@
+# assets
+all art assets
